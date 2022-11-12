@@ -6,4 +6,9 @@
 
 
 二.代码：
-    第二个实验：
+    第二个实验：https://github.com/guo061/library3_2/blob/master/exam3_2/app/src/main/java/com/example/exam3_2/MainActivity_2.java
+
+   第三个实验：https://github.com/guo061/library3_2/blob/master/exam3_2/app/src/main/java/com/example/exam3_2/MainActivity_3.java
+
+   第四个实验：https://github.com/guo061/library3_2/blob/master/exam3_2/app/src/main/java/com/example/exam3_2/MainActivity_4.java
+
